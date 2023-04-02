@@ -1,9 +1,9 @@
 # numpy.core._muliarray_umath
-ошибка выглядит так:
+Тут вы узнаете поэтапное решение ошибки numpy.core._muliarray_umath
 
 ![1](https://github.com/akimwife/numpy.core._multiarray_umath/blob/main/1.JPG)
 
-я решила проблему вот так:
+Решение:
 
 1.  Удаляем numpy во вкладке "python packages"
 * открываем вкладку "python packages" и находим numpy
