@@ -15,7 +15,7 @@
 ![3](https://github.com/akimwife/numpy.core._multiarray_umath/blob/main/3.png)
 
 2.  Устанавливаем numpy из вкладки "terminal"
-*вводим команду `pip install numpy` и нажимаем Enter
+вводим команду `pip install numpy` и нажимаем Enter
 [4](https://github.com/akimwife/numpy.core._multiarray_umath/blob/main/4.png)
 
 
